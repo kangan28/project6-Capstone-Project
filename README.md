@@ -8,9 +8,9 @@ As many of streaming-services operate on dataset with seconds of timeframe, size
 
 Packages required:
 
-Pandas
-pyspark
-matplot
+Pandas,
+pyspark,
+matplot and
 numpy
 
 
