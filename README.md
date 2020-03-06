@@ -20,5 +20,4 @@ Gallery:
 Project Notebook: Spark - Subset Analytics
 
 
-Blog Post: Understanding churning using Big data Analytics (link)
-https://medium.com/@kangan312/understanding-churning-using-big-data-analytics-826de7a9bbb7
+<a href="https://medium.com/@kangan312/understanding-churning-using-big-data-analytics-826de7a9bbb7">Blog-Post: Understanding churning using Big-Data Analytics</a>
